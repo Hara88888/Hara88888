@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hara88888&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hara88888&theme=onedark)](https://github.com/Hara88888/github-profile-trophy)
